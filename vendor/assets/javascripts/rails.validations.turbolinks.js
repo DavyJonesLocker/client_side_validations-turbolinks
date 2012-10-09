@@ -1,6 +1,6 @@
 
 /*
-  Client Side Validations - Turbolinks - v0.0.1.alpha.1
+  Client Side Validations - Turbolinks - v0.5.0.rc.1
   https://github.com/dockyard/client_side_validations-turbolinks
 
   Copyright (c) 2012 DockYard, LLC
