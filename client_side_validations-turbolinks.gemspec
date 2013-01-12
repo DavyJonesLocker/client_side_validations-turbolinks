@@ -14,7 +14,7 @@ Gem::Specification.new do |gem|
   gem.version       = ClientSideValidations::Turbolinks::VERSION
 
   gem.add_dependency 'client_side_validations', '~> 3.2.0'
-  gem.add_dependency 'turbolinks', '~> 0.6.0'
+  gem.add_dependency 'turbolinks', '~> 1.0.0'
 
   gem.add_development_dependency 'rails', '~> 3.2.0'
   gem.add_development_dependency 'mocha'
