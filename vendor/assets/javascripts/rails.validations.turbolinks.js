@@ -1,3 +1,4 @@
+
 /*
   Client Side Validations - Turbolinks - v1.1.1
   https://github.com/dockyard/client_side_validations-turbolinks
@@ -9,6 +10,7 @@
 
 
 (function() {
+
   $(function() {
     return $(document).bind('page:change', function() {
       return $('form[data-validate]').validate();
