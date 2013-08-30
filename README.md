@@ -1,3 +1,5 @@
+# This library is no longer being maintained. Use at your own risk #
+
 # ClientSideValidations-Turbolinks #
 
 [![Build Status](https://secure.travis-ci.org/dockyard/client_side_validations-turbolinks.png?branch=master)](http://travis-ci.org/dockyard/client_side_validations-turbolinks)
