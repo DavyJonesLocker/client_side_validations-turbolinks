@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
 
   s.add_dependency 'client_side_validations', '>= 4.1.0'
-  s.add_dependency 'turbolinks', '>= 2.4.0', '< 3'
+  s.add_dependency 'turbolinks', '>= 2.5.0', '< 3'
 
   s.add_development_dependency 'rails', '>= 4.0.0', '<= 4.2.0.beta2'
   s.add_development_dependency 'mocha'
