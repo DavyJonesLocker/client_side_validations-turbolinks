@@ -1,10 +1,9 @@
-# This library is no longer being maintained. Use at your own risk #
-
 # ClientSideValidations-Turbolinks #
 
-[![Build Status](https://secure.travis-ci.org/dockyard/client_side_validations-turbolinks.png?branch=master)](http://travis-ci.org/dockyard/client_side_validations-turbolinks)
-[![Dependency Status](https://gemnasium.com/dockyard/client_side_validations-turbolinks.png?travis)](https://gemnasium.com/dockyard/client_side_validations-turbolinks)
-[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/dockyard/client_side_validations-turbolinks)
+[![Gem Version](https://badge.fury.io/rb/client_side_validations-turbolinks.svg)](http://badge.fury.io/rb/client_side_validations-turbolinks)
+[![Build Status](https://secure.travis-ci.org/dockyard/client_side_validations-turbolinks.svg?branch=master)](https://travis-ci.org/dockyard/client_side_validations-turbolinks)
+[![Dependency Status](https://gemnasium.com/dockyard/client_side_validations-turbolinks.svg)](https://gemnasium.com/dockyard/client_side_validations-turbolinks)
+[![Code Climate](https://codeclimate.com/github/dockyard/client_side_validations-turbolinks/badges/gpa.svg)](https://codeclimate.com/github/dockyard/client_side_validations-turbolinks)
 
 [Turbolinks](https://github.com/rails/turbolinks) plugin for [ClientSideValidations](https://github.com/bcardarella/client_side_validations)
 
@@ -60,10 +59,10 @@ As long as you are using `Turbolinks` properly this should "just work". Any new 
 
 This gem follows [Semantic Versioning](http://semver.org)
 
-Major and minor version numbers will follow `Rails`'s major and
+Major and minor version numbers will follow `Turbolinks`'s major and
 minor version numbers. For example,
-`client_side_validations-turbolinks-0.5.0` will be compatible up to 
-`~> turbolinks-0.5.0`
+`client_side_validations-turbolinks-2.5.0` will be compatible up to
+`~> turbolinks-2.5.0`
 
 ## Want to help? ##
 

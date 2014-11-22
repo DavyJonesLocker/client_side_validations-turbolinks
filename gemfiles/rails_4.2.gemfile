@@ -2,8 +2,8 @@
 
 source "http://rubygems.org"
 
-gem "byebug"
 gem "client_side_validations", :github => "tagliala/client_side_validations", :branch => "rails4"
-gem "rails", "~> 4.2.0.beta2"
+gem "byebug"
+gem "rails", "~> 4.2.0.beta4"
 
 gemspec :path => "../"
