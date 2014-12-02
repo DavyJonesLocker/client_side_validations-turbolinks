@@ -33,5 +33,3 @@ module TestApp
     I18n.enforce_available_locales = true
   end
 end
-
-module ClientSideValidations; end
