@@ -103,4 +103,3 @@ get '/' do
   params[:version] ||= '1.11.1'
   erb :index
 end
-
