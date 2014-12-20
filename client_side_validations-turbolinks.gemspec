@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.files         = `git ls-files -- {lib/*,vendor/*,*.gemspec}`.split("\n")
   s.require_paths = ['lib']
 
-  s.add_dependency 'client_side_validations', '~> 4.1.0'
+  s.add_dependency 'client_side_validations', '~> 4.2.0'
   s.add_dependency 'turbolinks', '~> 2.5'
 
   s.add_development_dependency 'rails', '>= 4.0.0', '< 5.0.0'
