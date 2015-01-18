@@ -1,11 +1,11 @@
 # ClientSideValidations-Turbolinks #
 
 [![Gem Version](https://badge.fury.io/rb/client_side_validations-turbolinks.svg)](http://badge.fury.io/rb/client_side_validations-turbolinks)
-[![Build Status](https://secure.travis-ci.org/dockyard/client_side_validations-turbolinks.svg?branch=master)](https://travis-ci.org/dockyard/client_side_validations-turbolinks)
-[![Dependency Status](https://gemnasium.com/dockyard/client_side_validations-turbolinks.svg)](https://gemnasium.com/dockyard/client_side_validations-turbolinks)
-[![Code Climate](https://codeclimate.com/github/dockyard/client_side_validations-turbolinks/badges/gpa.svg)](https://codeclimate.com/github/dockyard/client_side_validations-turbolinks)
+[![Build Status](https://secure.travis-ci.org/DavyJonesLocker/client_side_validations-turbolinks.svg?branch=master)](https://travis-ci.org/DavyJonesLocker/client_side_validations-turbolinks)
+[![Dependency Status](https://gemnasium.com/DavyJonesLocker/client_side_validations-turbolinks.svg)](https://gemnasium.com/DavyJonesLocker/client_side_validations-turbolinks)
+[![Code Climate](https://codeclimate.com/github/DavyJonesLocker/client_side_validations-turbolinks/badges/gpa.svg)](https://codeclimate.com/github/DavyJonesLocker/client_side_validations-turbolinks)
 
-[Turbolinks](https://github.com/rails/turbolinks) plugin for [ClientSideValidations](https://github.com/bcardarella/client_side_validations)
+[Turbolinks](https://github.com/rails/turbolinks) plugin for [ClientSideValidations](https://github.com/DavyJonesLocker/client_side_validations)
 
 ## Installation ##
 
@@ -20,7 +20,7 @@ gem 'client_side_validations-turbolinks'
 Order matters here. `Turbolinks` and `ClientSideValidations` need to be
 required **before** `ClientSideValidations-Turbolinks`.
 
-[Follow the remaining installation instructions for ClientSideValidations](https://github.com/bcardarella/client_side_validations/README.markdown)
+[Follow the remaining installation instructions for ClientSideValidations](https://github.com/DavyJonesLocker/client_side_validations/README.markdown)
 
 Add the following line to `app/assets/javascripts/application.js`
 
@@ -53,7 +53,9 @@ As long as you are using `Turbolinks` properly this should "just work". Any new 
 
 [Brian Cardarella](http://twitter.com/bcardarella)
 
-[We are very thankful for the many contributors](https://github.com/dockyard/client_side_validations-turbolinks/graphs/contributors)
+[Geremia Taglialatela](http://twitter.com/gtagliala)
+
+[We are very thankful for the many contributors](https://github.com/DavyJonesLocker/client_side_validations-turbolinks/graphs/contributors)
 
 ## Versioning ##
 
@@ -67,12 +69,12 @@ minor version numbers. For example,
 ## Want to help? ##
 
 Please do! We are always looking to improve this gem. Please see our
-[Contribution Guidelines](https://github.com/dockyard/client_side_validations-turbolinks/blob/master/CONTRIBUTING.md)
+[Contribution Guidelines](https://github.com/DavyJonesLocker/client_side_validations-turbolinks/blob/master/CONTRIBUTING.md)
 on how to properly submit issues and pull requests.
 
 ## Legal ##
 
-[DockYard](http://dockyard.com), LLC &copy; 2012
+[DockYard](http://dockyard.com), LLC &copy; 2012-2015
 
 [@dockyard](http://twitter.com/dockyard)
 
