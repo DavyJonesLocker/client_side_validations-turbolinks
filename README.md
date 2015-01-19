@@ -4,6 +4,7 @@
 [![Build Status](https://secure.travis-ci.org/DavyJonesLocker/client_side_validations-turbolinks.svg?branch=master)](https://travis-ci.org/DavyJonesLocker/client_side_validations-turbolinks)
 [![Dependency Status](https://gemnasium.com/DavyJonesLocker/client_side_validations-turbolinks.svg)](https://gemnasium.com/DavyJonesLocker/client_side_validations-turbolinks)
 [![Code Climate](https://codeclimate.com/github/DavyJonesLocker/client_side_validations-turbolinks/badges/gpa.svg)](https://codeclimate.com/github/DavyJonesLocker/client_side_validations-turbolinks)
+[![Coverage Status](https://coveralls.io/repos/DavyJonesLocker/client_side_validations-turbolinks/badge.svg)](https://coveralls.io/r/DavyJonesLocker/client_side_validations-turbolinks)
 
 [Turbolinks](https://github.com/rails/turbolinks) plugin for [ClientSideValidations](https://github.com/DavyJonesLocker/client_side_validations)
 
