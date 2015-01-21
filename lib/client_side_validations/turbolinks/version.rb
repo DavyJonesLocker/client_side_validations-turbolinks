@@ -1,5 +1,5 @@
 module ClientSideValidations
-  module Turbolinks 
-    VERSION = '1.1.1'
+  module Turbolinks
+    VERSION = '2.5.0'.freeze
   end
 end

@@ -2,3 +2,5 @@
 
 require 'base_helper'
 require 'client_side_validations-turbolinks'
+
+TestApp::Application.initialize!

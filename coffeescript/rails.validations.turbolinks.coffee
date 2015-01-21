@@ -1,6 +1,6 @@
 ###
   Client Side Validations - Turbolinks - v<%= ClientSideValidations::Turbolinks::VERSION %>
-  https://github.com/dockyard/client_side_validations-turbolinks
+  https://github.com/DavyJonesLocker/client_side_validations-turbolinks
 
   Copyright (c) <%= DateTime.now.year %> DockYard, LLC
   Licensed under the MIT license
