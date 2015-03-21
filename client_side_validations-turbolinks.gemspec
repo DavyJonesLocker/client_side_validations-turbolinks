@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'appraisal', '~> 1.0'
 
   if Gem::Version.new(RUBY_VERSION.dup) >= Gem::Version.new('2.0')
-    s.add_development_dependency 'byebug', '~> 3.5'
+    s.add_development_dependency 'byebug', '~> 4.0'
   else
     s.add_development_dependency 'debugger', '~> 1.6'
   end

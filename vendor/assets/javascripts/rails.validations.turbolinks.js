@@ -9,10 +9,8 @@
  */
 
 (function() {
-  $(function() {
-    return $(document).bind('page:change', function() {
-      return $('form[data-validate]').validate();
-    });
+  $(document).bind('page:change', function() {
+    return $(ClientSideValidations.selectors.forms).validate();
   });
 
 }).call(this);

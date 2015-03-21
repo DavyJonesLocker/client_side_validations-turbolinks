@@ -7,6 +7,5 @@
   http://www.opensource.org/licenses/mit-license.php
 ###
 
-$ ->
-  $(document).bind 'page:change', ->
-    $('form[data-validate]').validate()
+$(document).bind 'page:change', ->
+  $(ClientSideValidations.selectors.forms).validate()
